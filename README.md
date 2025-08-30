@@ -16,5 +16,5 @@
 - Kaggle workflow
 
 ## Files:
-- `titanic-prediction.ipynb` – main notebook
+- `titanic-predictions.ipynb` – main notebook
 - `submission.csv` – output
